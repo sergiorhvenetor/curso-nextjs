@@ -27,5 +27,6 @@ export default function Error({
         Try again
       </button>
     </main>
-  );
+  );  
+  
 }
